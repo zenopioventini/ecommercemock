@@ -1,11 +1,26 @@
 {
-  "posts": [
+  "cart": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "account": {
+    "username": "hisos35072@superyp.com",
+    "fullname": null,
+    "catalog": "Base InfoCert",
+    "dealer": false,
+    "dealerStatus": null,
+    "lastModifyPassword": null,
+    "contactInfo": {
+      "email": "hisos35072@superyp.com",
+      "certifiedEmail": null,
+      "homePhone": null,
+      "mobilePhone": null
+    },
+    "privacy": {
+      "commercial": true,
+      "thirdPart": true
+    }
   }
 }
