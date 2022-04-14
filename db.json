@@ -1,10 +1,49 @@
 {
-  "cart": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  "cart": {
+    "id":"C-55-0009883498",
+    "items":[
+      {"id":"1",
+       "shopItemId":"CS-LEDOCLITE",
+       "shopItemProductType":"pr_lgm_contr",
+       "action":"ACTIVATE",
+       "name":"LegalDoc LITE",
+       "bunldeDescription":null,
+       "value":null,
+       "configurations":[{"id":"NUM_PAG_ACQUISTATE","description":"Pagine aggiuntive","value":1000}],
+       "cartItemQuantity":1,
+       "shopItemQuantity":1,
+       "shopItemQuantityType":"ANNI",
+       "upsellingId":null,
+       "price":119.000,
+       "discountCode":null,
+       "discountAmount":0.000,
+       "cartItemConfigurationId":null,
+       "tangible":false,
+       "campaignId":null
+      },
+      {"id":"0",
+       "shopItemId":"FE-LEGALPRO",
+       "shopItemProductType":"pr_lgm_contr",
+       "action":"ACTIVATE",
+       "name":"Legalinvoice PRO",
+       "bunldeDescription":null,
+       "value":null,
+       "configurations":[{"id":"NUMERO_EMITTENTI_FATTURE","description":"Cedenti/Prestatori gestiti","value":1},{"id":"NUMERO_FATTURE","description":"Numero Fatture","value":400},{"id":"TEMPLATE_PDF","description":"Template PDF","value":0}],
+       "cartItemQuantity":1,
+       "shopItemQuantity":1,
+       "shopItemQuantityType":"ANNI",
+       "upsellingId":null,
+       "price":84.000,
+       "discountCode":null,
+       "discountAmount":0.000,
+       "cartItemConfigurationId":null,
+       "tangible":false,
+       "campaignId":null
+      }
+    ],
+    "total":203.00,
+    "vat":44.66
+  },
   "account": {
     "username": "hisos35072@superyp.com",
     "fullname": null,
