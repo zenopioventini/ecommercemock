@@ -22,5 +22,15 @@
       "commercial": true,
       "thirdPart": true
     }
+  },
+  "account-nologin": {
+    "username": null,
+    "fullname": null,
+    "catalog": null,
+    "dealer": false,
+    "dealerStatus": null,
+    "lastModifyPassword": null,
+    "contactInfo": null,
+    "privacy": null
   }
 }
